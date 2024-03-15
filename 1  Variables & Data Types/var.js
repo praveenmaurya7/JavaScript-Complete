@@ -1,8 +1,8 @@
-// Variables are containers for Data.
+/* Variables are containers for Data.
 // strings are always stored in double or single quote.
-fullname = "Tony Strak";
+fullName = "Tony Strak";
 // for print the value of variable as it is, don't use double qoute in console.log
-console.log (fullname);
+console.log (fullName);
 
 price = 99.99;
 console.log(price);
@@ -91,4 +91,4 @@ console.log (PI);
  {
     let a = 10;
     console.log(a);
- }
+ } */

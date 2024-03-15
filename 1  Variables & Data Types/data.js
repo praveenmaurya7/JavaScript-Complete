@@ -1,4 +1,4 @@
-// Data Types in JS
+/* Data Types in JS
 // Primitive Datatypes (7)
 // 1- Number
 
@@ -54,4 +54,4 @@ console.log(student["name"]);
 
 // let -> can be updated
 // const -> can't be updated 
-// keys of const object can be updated.
+// keys of const object can be updated. */
